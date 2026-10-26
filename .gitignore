@@ -1,0 +1,9 @@
+History/
+__Previews/
+__pycache__/
+.serial_mcp/
+Project Logs for */
+*.PrjPcbStructure
+*.PrjPcbStructure*
+*.bak
+*.tmp
