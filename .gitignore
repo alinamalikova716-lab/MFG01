@@ -7,3 +7,18 @@ Project Logs for */
 *.PrjPcbStructure*
 *.bak
 *.tmp
+# Altium generated files
+Project Outputs for MFG01/
+History/
+__Previews/
+*.Cam
+Nets*.bin
+
+# STM32CubeIDE build output
+MF02/Release/
+MF02/Debug/
+MF02/Objects/
+MF02/Binaries/
+
+# Archives and temporary exports
+*.zip
